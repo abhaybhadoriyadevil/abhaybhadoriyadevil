@@ -84,35 +84,43 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 </div>
 
 ---
-<div align="center" style="width:100%;">
-  <h2>🚀 Technical Skills</h2>
-  <p>Data Analyst • AI Enthusiast • Future Engineer</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <div style="display: inline-block; text-align: center;">
-    <div>
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
-    </div>
-    <div>
-      <img src="https://i.pinimg.com/736x/09/88/d0/0988d07e26b3fba4c0c0b09272b06619.jpg" width="55" height="55" />
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
-    </div>
-    <div>
-      <img src="https://w7.pngwing.com/pngs/815/646/png-transparent-tableau-full-logo-tech-companies-thumbnail.png" width="50" height="50" />
-      <img src="https://img.icons8.com/fluent/512/power-bi-2021.png" width="50" height="50" />
-      <img src="https://i.pinimg.com/736x/56/5d/59/565d59130cbccc049c86f82664b4772f.jpg" width="50" height="50" />
-    </div>
-    <div>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" />
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
-    </div>
-    <div>
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" />
-      <img src="https://skillicons.dev/icons?i=googlecloud" width="40" height="40" />
-    </div>
+  <!-- Left GIF -->
+  <img src="https://giffiles.alphacoders.com/125/125054.gif" width="120" height="auto" />
 
+  <!-- Center Content -->
+  <div align="center" style="flex: 1;">
+    <h2>🚀 Technical Skills</h2>
+    <p>Data Analyst • AI Enthusiast • Future Engineer</p>
+    <div style="display: inline-block; text-align: center;">
+      <div>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
+      </div>
+      <div>
+        <img src="https://i.pinimg.com/736x/09/88/d0/0988d07e26b3fba4c0c0b09272b06619.jpg" width="55" height="55" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" />
+      </div>
+      <div>
+        <img src="https://w7.pngwing.com/pngs/815/646/png-transparent-tableau-full-logo-tech-companies-thumbnail.png" width="50" height="50" />
+        <img src="https://img.icons8.com/fluent/512/power-bi-2021.png" width="50" height="50" />
+        <img src="https://i.pinimg.com/736x/56/5d/59/565d59130cbccc049c86f82664b4772f.jpg" width="50" height="50" />
+      </div>
+      <div>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+      </div>
+      <div>
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=googlecloud" width="40" height="40" />
+      </div>
+    </div>
   </div>
+
+  <!-- Right GIF -->
+  <img src="https://media.tenor.com/TxCVmMLjBgQAAAAM/naruto.gif" width="120" height="auto" />
 </div>
 
 
