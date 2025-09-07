@@ -16,16 +16,18 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 ---
 
 ## 🚀 Technical Skills
-- **Languages:** Python, SQL, C++, Dart  
-- **Tools & Tech:** Power BI, Excel, Tableau, Git, VSCode, Jupyter Notebook, GenAI  
-- **Concepts:** Data Analysis, Data Visualization, Data Cleaning, Statistics, Reporting, Performance Tracking  
+- **Languages:** Python, SQL, VBA, C++, Dart  
+- **Tools & Tech:** Power BI, Mysql, Excel, Tableau, Git, VSCode, Jupyter Notebook, GenAI  
+- **Concepts:** Machine learning, Data science Data Analysis, Data Visualization, Data Cleaning, Statistics, Reporting, Performance Tracking  
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sql-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
+
+
 </div>
 
 ---
@@ -63,7 +65,6 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 <p align="left">
 <a href="https://linkedin.com/in/abhay-bhadoriya555" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://github.com/abhaybhadoriyadevil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-<a href="mailto:abhaybhadoriya.555@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
 </p>
 
 ---
