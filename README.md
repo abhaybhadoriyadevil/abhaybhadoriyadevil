@@ -1,4 +1,4 @@
-![logo](supun-new.png)
+![logo](banner.gif)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Abhay bhadoriya</h1>
@@ -115,14 +115,14 @@
  </div>
  <br><br>
 
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaybhadoriyadevil\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=abhaybhadoriyadevil&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -130,12 +130,12 @@
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-<!-- <h3 align="left">Activity:</h3>
+ <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaybhadoriyadevil&custom_title=abhay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 <h3 align="left">Achievements:</h3>
 
