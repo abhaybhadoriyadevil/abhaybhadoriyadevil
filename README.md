@@ -31,7 +31,7 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 <div><img src="https://skillicons.dev/icons?i=aws" width="55" height="55"><img src="https://skillicons.dev/icons?i=googlecloud" width="55" height="55"></div>
 </div>
 </td>
-<td align="center" style="width:33%; border:0;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlubTFxOGEzbHRha2Nub3k4c2cyeGNoM3N1ejZ4M20yeXlmdm5wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrMubHnht1RtWZzind/giphy.gif" width="250" ></td>
+<td align="center" style="width:33%; border:0;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AwZzk5bXFyNTQ0NGphb2FrYjE4cWtuNXJpY25nbmhhNDA1aDQ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pA5ndaOZlucSjUrXw/giphy.gif"width="250" ></td>
 </tr>
 </table>
 
