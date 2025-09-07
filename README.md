@@ -38,10 +38,10 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaybhadoriyadevil&theme=midnight-purple&show_icons=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaybhadoriyadevil&theme=midnight-purple&show_icons=true" width="50%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhaybhadoriyadevil&theme=midnight-purple" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=abhaybhadoriyadevil&theme=midnight-purple" width="50%" />
 </p>
 
 
