@@ -36,12 +36,14 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 </table>
 
 ---
-
 ## 📊 GitHub Stats
-<div align="center">
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaybhadoriyadevil&theme=midnight-purple&show_icons=true)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhaybhadoriyadevil&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaybhadoriyadevil&theme=midnight-purple&show_icons=true" width="100%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhaybhadoriyadevil&theme=midnight-purple" width="100%" />
+</p>
+
 
 ---
 
