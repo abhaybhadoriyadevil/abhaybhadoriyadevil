@@ -30,38 +30,8 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 
 </div>
 
----
 
-## 📂 Projects
-- **Retail Sales Analysis | Excel, Python, Power BI**  
-  - Cleaned and transformed retail data to remove inconsistencies.  
-  - Built dashboards to identify sales trends and top-performing products.  
-  - Reduced reporting time by **60%** with automation.
 
-- **Flight Sales Analysis | Python, Power BI**  
-  - Processed sales data for demand forecasting.  
-  - Identified seasonal patterns to support revenue optimization.  
-  - Improved forecasting accuracy with data-driven insights.  
-
----
-
-## 🎓 Education & Certifications
-- **B.Tech in Computer Science and Engineering** (2021–2025) – RGPV, Bhopal  
-- **Data Science Program** – Ducat Institute, Noida (2024–2025)  
-- **Python Certification** – Microsoft (2023)  
-- **Excel & Python Analysis** – Great Learning (2025)  
-- **Data Analytics Simulation** – Deloitte (Forage, 2025)  
-- **GenAI Data Analytics Simulation** – Tata (Forage, 2025)  
-
----
-
-## 🏆 Achievements
-- **Sports:** 1st position in Football, active participation in Volleyball, Cricket, Chess, and Badminton.  
-- **Volunteering:** Assisted in organizing and managing technical events in college fests.  
-
----
-
-## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/abhay-bhadoriya555" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://github.com/abhaybhadoriyadevil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
@@ -78,5 +48,7 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 </div>
 
 ---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<br>
 <p align="right">Created with ❤️ by Abhay Bhadoriya</p>
