@@ -86,8 +86,6 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <!-- Left GIF -->
-  <img src="https://giffiles.alphacoders.com/125/125054.gif" width="120" height="auto" />
 
   <!-- Center Content -->
   <div align="center" style="flex: 1;">
@@ -119,9 +117,7 @@ I enjoy solving real-world problems using Python, SQL, and BI tools, and I’m p
     </div>
   </div>
 
-  <!-- Right GIF -->
-  <img src="https://media.tenor.com/TxCVmMLjBgQAAAAM/naruto.gif" width="120" height="auto" />
-</div>
+
 
 
  
